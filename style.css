@@ -27,7 +27,7 @@ nav a {
 
 figcaption {
   text-align: center;
-  font-size: 12;
+  font-size: 12px
 }
 
 p {
@@ -42,5 +42,6 @@ p {
 }
 
 #details {
+  display: block;
   
 }
