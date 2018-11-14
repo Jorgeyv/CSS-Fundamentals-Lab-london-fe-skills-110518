@@ -48,5 +48,8 @@ p {
   float: left;
   margin-right: auto;
   margin-left: auto;
+  background-color: blue;
+  text-align: center;
+  width: 25%;
 }
 
